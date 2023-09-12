@@ -1,0 +1,13 @@
+path = '/data1/lrw_roi_80_116_175_211_npy_gray_pkl_jpeg/'
+split_path = '/home/luosongtao/code/LRW_ID-main/Splits/'
+random_seed = 251
+batch_size = 130
+gpus = 2
+base_lr = 2.5e-4 * batch_size/32.0 
+num_workers = 8
+max_epoch = 10
+resume_path =None
+reg = 0.5
+precision = 16
+verison=18
+alpha=0.1

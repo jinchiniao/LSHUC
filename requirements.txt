@@ -1,0 +1,8 @@
+editdistance==0.6.0
+numpy==1.21.2
+opencv_python==4.5.5.64
+pytorch_lightning==1.5.10
+PyTurboJPEG==1.6.6
+torch==1.11.0+cu113
+torchsummary==1.5.1
+tqdm==4.63.0
