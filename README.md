@@ -147,7 +147,7 @@ and train with command:
 python train_ensemble.py --enhance_model_path /home/luosongtao/code/LSHUC/Enhance_logs/crop_flip_cl_251/version_1/checkpoints/checkpoints-epoch=09-val_loss=0.55-val_wer=0.12.ckpt
 ```
 ## Benchmark
-| Method  |  $L^{ID}_{\text{triple}}$  | $ L^{Enh}_{\text{triple}} $ & $ L^{Sup}_{\text{triple}} $ | $ L^{VSR}_{CE} $ | Acc(%) |
+| Method  |  $L^{ID}_{{triple}}$  | $ L^{Enh}_{{triple}} $ & $ L^{Sup}_{{triple}} $ | $ L^{VSR}_{CE} $ | Acc(%) |
 | ------- | ---------------------------- | ------------------------------------------------------------- | ------------------ | ------ | 
 | Baseline| -                           | -                              | ✓                 | 87.25    |
 | Ours    | ❌                          | ❌                              | ✓                 | 87.73    |
