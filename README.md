@@ -48,7 +48,7 @@ Please remember to set the `split_path` in `config.py` to the location where you
 ## Setup
 Set up environment
 ```
-pip install -r requirements.txt
+ pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu113
 ```
 ## Training Steps
 We propose a 3-step training strategy for our speaker adaptive model, focusing on separate tasks at each step. Please refer to the 'Training Details' subsection in the 'More Detailed Experiments' section of the supplementary materials.
