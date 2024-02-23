@@ -157,3 +157,13 @@ python train_ensemble.py --enhance_model_path /home/luosongtao/code/LSHUC/Enhanc
 ## Contact
 luosongtao18@mails.ucas.ac.cn
 ## Citation
+```
+@inproceedings{Luo_2023_BMVC,
+author    = {Songtao Luo and Shuang Yang and Shiguang Shan and Xilin Chen},
+title     = {Learning Separable Hidden Unit Contributions for Speaker-Adaptive Visual Speech Recognition},
+booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+publisher = {BMVA},
+year      = {2023},
+url       = {https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0146.pdf}
+}
+```
